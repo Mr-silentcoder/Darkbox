@@ -1,6 +1,6 @@
 # Darkbox
 
-static php music site (Non-Responsive Design)
+static php music site 
 
 <h3> <a href="https://hridhayakavadam.herokuapp.com"> Live Demo </a> </h3>
 
